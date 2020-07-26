@@ -7,10 +7,10 @@ There is no dataset available with labelling tweet/post as per mental health ind
 
 2.After that  we were able to scrape information from the r/Depression, r/SuicideWatch, r/CasualConversation, and r/All subreddits.from Reddits as well
 
-After merging Twitter,Reddit data we train our model to predict person's mental health condition into 4 category
+After merging Twitter,Reddit data we trained our model to predict person's mental health condition into 4 category
 NOT_SUICIDAL,Early sign,Mid risk,High risk category
 
-We have trained our classification model on NB which unexpectedly did good job.After that we tried LSTM model which gave us decent score.
+We have trained classification model on NB which unexpectedly did good job.After that we tried LSTM model which gave us decent result.
 
 
 Next Step:-
