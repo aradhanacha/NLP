@@ -33,7 +33,7 @@ b. We crawled information from Reddits based on  r/Depression, r/SuicideWatch, r
 After merging Twitter,Reddit data we trained our model to predict person's mental health condition into 4 category
 NOT_SUICIDAL,Early sign,Mid risk,High risk category
 
-We have trained classification model on NB which unexpectedly did good job.After that we tried LSTM model which gave us decent result.
+First we trained classification model on NB,LR.NB was better compare to LR for classification.After that we trained on LSTM which outperformed othe models.
 
 * Chatbot
 
