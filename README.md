@@ -1,7 +1,7 @@
 # NLP
 Team Binary
 
-Problem:
+#Problem:
 
 According to the CDC, suicide rates have increased by 30% since 1999. Nearly 45,000 lives were lost to suicide in 2016 alone. Comments or thoughts about suicide — also known as suicidal ideation — can begin small like, “I wish I wasn’t here” or “Nothing matters.” But over time, they can become more explicit and dangerous.
 Here are a few other warning signs of suicide:
